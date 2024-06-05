@@ -1,0 +1,8 @@
+opencv-python
+lxml
+tqdm
+tensorflow==2.13.0rc0
+absl-py
+easydict
+matplotlib
+pillow
